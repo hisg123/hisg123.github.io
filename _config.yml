@@ -1,8 +1,9 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Hisg123.github.io
+longtitle:        Hisg123 developing diary
+author:           Hong.InKi
+email:            hisg1201@naver.com
+
 description: >
   Build Jekyll site with the GitBook style.
 
