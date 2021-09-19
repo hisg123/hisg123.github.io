@@ -1,0 +1,31 @@
+.sub_title_label {
+                display: inline-block;
+                padding: 5px;
+                color: white;
+                background-color:black;
+          }
+
+#nav {
+    padding: 0;
+    text-align: center
+}
+
+#nav li {
+    list-style-type: none;
+    display: inline;
+}
+
+#nav a {
+    display: inline-block;
+    padding: 6px 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+    transition: all 0.3s ease-in-out;
+}
+
+#nav a:hover {
+    color: #fff;
+    background: #111;
+}
