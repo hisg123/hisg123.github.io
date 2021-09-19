@@ -1,33 +1,30 @@
-.sub_title_label {
-                display: inline-block;
-                padding: 5px;
-                color: white;
-                background-color:black;
-          }
-
-.li-inline {
-    padding: 0;
-    text-align: center
+.title{
+    font-family: 'Noto Sans KR', sans-serif;
+    color: white;
+    background-color: #212529;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
 }
 
-.li-inline>li {
+.nav nav-tabs {
     list-style-type: none;
     display: inline;
+    text-aling: right;
+    border: 1px solid white;
 }
 
-.li-inline>li>a {
+.nav-item {
     display: inline-block;
     padding: 6px 18px;
     text-transform: uppercase;
     text-decoration: none;
     font-weight: bold;
-    color: #333;
-    transition: all 0.3s ease-in-out;
 }
 
-.li-inline>li>a:hover{
-    color: #fff;
-    background: #111;
+.nav-link:hover{
+    color: black;
+    background: #8C98A3 ;
 }
 
 .description{
