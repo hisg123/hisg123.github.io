@@ -3,40 +3,30 @@
     color: white;
     background-color: #212529;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 30px;
+    text-align: left;
+}
+
+.github_tag {
+    font-family: 'Noto Sans KR', sans-serif;
+    color: white;
+    background-color: #212529;
+    font-size: 15px;
     text-align: center;
 }
 
-.nav nav-tabs {
+.nav navbar-nav {
     list-style-type: none;
     display: inline;
-    text-aling: right;
+    color: black;
     border: 1px solid white;
 }
 
 .nav-item {
     display: inline-block;
     padding: 6px 18px;
-    text-transform: uppercase;
     text-decoration: none;
     font-weight: bold;
-}
-
-.nav-link:hover{
-    color: black;
-    background: #8C98A3 ;
-}
-
-.description{
-    width: 400px;
-    padding: 50px;
-    border: 30px;
-    border: #111111;
     color: white;
-    background-color: black;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 5px;
 }
+
